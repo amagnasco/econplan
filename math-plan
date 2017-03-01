@@ -1,2 +1,56 @@
 Starting point: high school level math, cross-tabulations.
+Not going to be used: Trigonometry
+
+Stage 1: Khan Academy (free and amazing resource created by Sal Khan; https://www.khanacademy.org)
+  a. Precalculus
+    - Mission foundations:
+      - Combining like terms with negative coefficients & distribution
+      - Equations with parentheses
+      - Graph from slope-intercept form
+      - Systems of equations with elimination
+      - Equations with square roots & cube roots
+      - Add polynomials
+      - Special products of binomials
+      - Solve quadratic eqs by factoring: leading coefficient = 1
+      - Graph quadratics: standard form
+      - Multiply monomials by polynomials
+      - Evaluate functions
+    - Trigonomic equations and identities:
+      - Evaluate inverse trig functions
+      - Solve sinusoidal equations (basic)
+      - Solve sinusoidal equations
+      - Sinusoidal models word problems
+      - Using the trig angle addition identities
+      - Find trig values using angle addition identities
+    - Conic sections:
+      - Graph a circle from its features
+      - Features of a circle from its graph
+      - Features of a circle from its standard equation
+      - Graph a circle from its standard equation
+      - Write standard equation of a circle
+      - Features of a circle from its expanded equation
+      - Graph a circle from its expanded equation
+      - Graph & features of ellipses
+      - Center & radii of ellipses from equation
+      - Ellipse standard equation & graph
+      - Foci of an ellipse from radii
+      - Foci of an ellipse from equation
+      - Equation of an ellipse from features
+      - Equation of a parabola from focus & directrix
+      - Vertices & direction of a hyperbola
+      - Foci of a hyperbola from equation
+      - Equation of a hyperbola from features
+    - Vectors:
+      - Equivalent vectors
+      - Components of vectors
+      - Magnitude of vectors
+      - 
+    - Matrices:
+    - Imaginary and complex numbers:
+    - Probability and combinatorics:
+    - Sequences, series, and induction:
+  b. High School statistics
+Stage 2: "Mathematics for Economists", Mike Rosser
+  - Apply economics problems to knowledge gleaned in Stage 1
+Stage 3: "Mathematics for Economists", Simon & Blume
 End point: calculus, optimization algorithms, game theory, R programming.
